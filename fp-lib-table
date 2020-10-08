@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pedal-pi-footprints)(type KiCad)(uri "$(KIPRJMOD)\\pedal-pi-footprints.pretty")(options "")(descr ""))
+  (lib (name asdf)(type KiCad)(uri C:\Users\Cris\Downloads\asdf)(options "")(descr ""))
+)
